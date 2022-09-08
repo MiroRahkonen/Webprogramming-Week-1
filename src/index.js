@@ -15,7 +15,7 @@ function initialize() {
   const list = document.getElementById("list");
 
   printButton.addEventListener("click", function () {
-    console.log("Hello world");
+    console.log("hello world");
     topText.innerText = "My notebook";
   });
 
